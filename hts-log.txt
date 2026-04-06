@@ -1,0 +1,492 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Mar 2026 10:25:38 at https://writerity.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://writerity.com/ -O1 "C:\Users\Administrator\Downloads\Writerity" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:27:12	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.eot (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:13	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.eot? (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:13	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.woff2 (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:13	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.woff (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:13	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.ttf (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:13	Error: 	"Not Found" (404) at link https://writerity.com/wp-content/themes/bezel-wp/assets/fonts/glyphicons-halflings-regular.svg (from https://writerity.com/wp-content/themes/bezel-wp/assets/css/bundle.css?ver=5.2.21)
+10:27:14	Warning: 	Moved Permanently for https://writerity.com/?p=51494
+10:27:14	Warning: 	File has moved from https://writerity.com/?p=51494 to https://writerity.com/jp/
+10:27:38	Warning: 	Moved Permanently for https://writerity.com/jp/service/
+10:27:38	Warning: 	File has moved from https://writerity.com/jp/service/ to https://writerity.com/service/
+10:27:38	Warning: 	Moved Permanently for https://writerity.com/jp/inquiry-jp/
+10:27:38	Warning: 	File has moved from https://writerity.com/jp/inquiry-jp/ to https://writerity.com/jp/inquiry/
+10:27:38	Error: 	"Not Found" (404) at link https://writerity.com/jp/blogs-jp/ (from https://writerity.com/jp/)
+10:27:38	Warning: 	Moved Permanently for https://writerity.com/?p=51967
+10:27:38	Warning: 	File has moved from https://writerity.com/?p=51967 to https://writerity.com/company/
+10:27:38	Warning: 	Moved Permanently for https://writerity.com/?p=52404
+10:27:38	Warning: 	File has moved from https://writerity.com/?p=52404 to https://writerity.com/blog_list/
+10:28:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/welcome-to-writerity/ (from https://writerity.com/blog_list/)
+10:28:12	Warning: 	Moved Permanently for https://writerity.com/?p=51982
+10:28:12	Warning: 	File has moved from https://writerity.com/?p=51982 to https://writerity.com/service/
+10:28:13	Warning: 	Moved Permanently for https://writerity.com/?p=51978
+10:28:13	Warning: 	File has moved from https://writerity.com/?p=51978 to https://writerity.com/recruitment/
+10:28:16	Warning: 	Moved Permanently for https://writerity.com/?p=51973
+10:28:16	Warning: 	File has moved from https://writerity.com/?p=51973 to https://writerity.com/inquiry/
+10:28:16	Warning: 	Moved Permanently for https://writerity.com/?p=53742
+10:28:16	Warning: 	File has moved from https://writerity.com/?p=53742 to https://writerity.com/jp/blog/system-ordering/crm-ma-tools/?p=53742
+10:28:31	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/webアプリ/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:32	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/システム開発/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:33	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/依頼/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:33	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/受注/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:33	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/外注/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:33	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/発注/ (from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/)
+10:28:33	Warning: 	Moved Permanently for https://writerity.com/?p=53641
+10:28:33	Warning: 	File has moved from https://writerity.com/?p=53641 to https://writerity.com/jp/blog/system-ordering/internal-sns-tool?p=53641
+10:28:34	Warning: 	Moved Permanently for https://writerity.com/?p=53638
+10:28:34	Warning: 	File has moved from https://writerity.com/?p=53638 to https://writerity.com/jp/blog/system-ordering/extension-function-development?p=53638
+10:28:35	Warning: 	Moved Permanently for https://writerity.com/?p=53635
+10:28:35	Warning: 	File has moved from https://writerity.com/?p=53635 to https://writerity.com/jp/blog/system-ordering/cms-development?p=53635
+10:28:35	Warning: 	Moved Permanently for https://writerity.com/?p=53632
+10:28:35	Warning: 	File has moved from https://writerity.com/?p=53632 to https://writerity.com/jp/blog/callcenter-outsourcing/telephone-answering-service-24hours?p=53632
+10:28:36	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/コールセンター/ (from https://writerity.com/jp/blog/callcenter-outsourcing/telephone-answering-service-24hours)
+10:28:38	Warning: 	Moved Permanently for https://writerity.com/?p=53629
+10:28:38	Warning: 	File has moved from https://writerity.com/?p=53629 to https://writerity.com/jp/blog/system-ordering/what-can-bitool-do?p=53629
+10:28:39	Warning: 	Moved Permanently for https://writerity.com/?p=51696
+10:28:39	Warning: 	File has moved from https://writerity.com/?p=51696 to https://writerity.com/jp/company/
+10:28:39	Warning: 	Moved Permanently for https://writerity.com/?p=51733
+10:28:39	Warning: 	File has moved from https://writerity.com/?p=51733 to https://writerity.com/jp/jp-service/
+10:28:58	Warning: 	Moved Permanently for https://writerity.com/?p=51742
+10:28:58	Warning: 	File has moved from https://writerity.com/?p=51742 to https://writerity.com/jp/recruitment/
+10:29:03	Error: 	"Not Found" (404) at link https://writerity.com/jp/http:/writerity.com/blog_list (from https://writerity.com/jp/recruitment/)
+10:29:03	Warning: 	Moved Permanently for https://writerity.com/?p=51828
+10:29:03	Warning: 	File has moved from https://writerity.com/?p=51828 to https://writerity.com/jp/recruitment/designer/
+10:29:14	Warning: 	Moved Permanently for https://writerity.com/?p=51855
+10:29:14	Warning: 	File has moved from https://writerity.com/?p=51855 to https://writerity.com/jp/jp-recruitment/infrastructure_engineer/
+10:29:14	Warning: 	Moved Permanently for https://writerity.com/?p=51849
+10:29:14	Warning: 	File has moved from https://writerity.com/?p=51849 to https://writerity.com/jp/recruitment/bridge_se/
+10:29:14	Warning: 	Moved Permanently for https://writerity.com/?p=51863
+10:29:14	Warning: 	File has moved from https://writerity.com/?p=51863 to https://writerity.com/jp/jp-recruitment/callcenter/
+10:29:16	Warning: 	Moved Permanently for https://writerity.com/?p=51867
+10:29:16	Warning: 	File has moved from https://writerity.com/?p=51867 to https://writerity.com/jp/recruitment/volunteer/
+10:29:16	Warning: 	Moved Permanently for https://writerity.com/?p=52125
+10:29:16	Warning: 	File has moved from https://writerity.com/?p=52125 to https://writerity.com/jp/inquiry/
+10:29:16	Warning: 	Moved Permanently for https://writerity.com/?p=53393
+10:29:16	Warning: 	File has moved from https://writerity.com/?p=53393 to https://writerity.com/blog/image-video-outsourcing/video-production-industry?p=53393
+10:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fblog%2Fimage-video-outsourcing%2Fvideo-production-industry&format=xml (from https://writerity.com/blog/image-video-outsourcing/video-production-industry)
+10:29:30	Warning: 	Moved Permanently for https://writerity.com/?p=53415
+10:29:30	Warning: 	File has moved from https://writerity.com/?p=53415 to https://writerity.com/blog/image-video-outsourcing/video-production-specialist?p=53415
+10:29:30	Warning: 	Moved Permanently for https://writerity.com/?p=53478
+10:29:30	Warning: 	File has moved from https://writerity.com/?p=53478 to https://writerity.com/blog/image-video-outsourcing/outsourcing-wedding-video-editing?p=53478
+10:29:31	Warning: 	Moved Permanently for https://writerity.com/?p=53484
+10:29:31	Warning: 	File has moved from https://writerity.com/?p=53484 to https://writerity.com/blog/image-video-outsourcing/video-production-definition?p=53484
+10:29:32	Warning: 	Moved Permanently for https://writerity.com/?p=53496
+10:29:32	Warning: 	File has moved from https://writerity.com/?p=53496 to https://writerity.com/blog/image-video-outsourcing/video-production-team?p=53496
+10:29:33	Warning: 	Moved Permanently for https://writerity.com/?p=53315
+10:29:33	Warning: 	File has moved from https://writerity.com/?p=53315 to https://writerity.com/blog/system-ordering/system-development-steps?p=53315
+10:29:34	Warning: 	Moved Permanently for https://writerity.com/?p=53323
+10:29:34	Warning: 	File has moved from https://writerity.com/?p=53323 to https://writerity.com/blog/system-ordering/system-development-theory?p=53323
+10:29:35	Warning: 	Moved Permanently for https://writerity.com/?p=53345
+10:29:35	Warning: 	File has moved from https://writerity.com/?p=53345 to https://writerity.com/blog/system-ordering/dynamic-system-development-method?p=53345
+10:29:35	Warning: 	Moved Permanently for https://writerity.com/?p=53358
+10:29:35	Warning: 	File has moved from https://writerity.com/?p=53358 to https://writerity.com/blog/system-ordering/system-development-waterfall-model?p=53358
+10:29:36	Warning: 	Moved Permanently for https://writerity.com/?p=53381
+10:29:36	Warning: 	File has moved from https://writerity.com/?p=53381 to https://writerity.com/blog/system-ordering/system-development-phase?p=53381
+10:29:36	Warning: 	Moved Permanently for https://writerity.com/?p=53490
+10:29:36	Warning: 	File has moved from https://writerity.com/?p=53490 to https://writerity.com/blog/call-center-outsourcing/call-center-agent?p=53490
+10:29:37	Warning: 	Moved Permanently for https://writerity.com/?p=53499
+10:29:37	Warning: 	File has moved from https://writerity.com/?p=53499 to https://writerity.com/blog/call-center-outsourcing/callcenter-responsibilities?p=53499
+10:29:41	Warning: 	Moved Permanently for https://writerity.com/?p=3061
+10:29:41	Warning: 	File has moved from https://writerity.com/?p=3061 to https://writerity.com/interviewed-by-jetro-japan-external-trade-organization/
+10:29:53	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/スコピエ/ (from https://writerity.com/interviewed-by-jetro-japan-external-trade-organization/)
+10:29:53	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/マケドニア/ (from https://writerity.com/interviewed-by-jetro-japan-external-trade-organization/)
+10:29:53	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/ヨーロッパ/ (from https://writerity.com/interviewed-by-jetro-japan-external-trade-organization/)
+10:29:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/interview/ (from https://writerity.com/interviewed-by-jetro-japan-external-trade-organization/)
+10:30:15	Warning: 	Moved Permanently for https://writerity.com/jp/blog/system-ordering/crm-ma-tools/?p=53742
+10:30:15	Warning: 	File has moved from https://writerity.com/jp/blog/system-ordering/crm-ma-tools/?p=53742 to https://writerity.com/jp/blog/system-ordering/crm-ma-tools/
+10:30:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/system-ordering/homemade-reservation-system (from https://writerity.com/category/jp/system-ordering)
+10:30:39	Warning: 	Moved Permanently for https://writerity.com/?p=53621
+10:30:39	Warning: 	File has moved from https://writerity.com/?p=53621 to https://writerity.com/jp/blog/callcenter-outsourcing/service-will-call-your-behalf?p=53621
+10:30:39	Warning: 	Moved Permanently for https://writerity.com/?p=53330
+10:30:39	Warning: 	File has moved from https://writerity.com/?p=53330 to https://writerity.com/jp/blog/design-outsourcing/wedding-video-production?p=53330
+10:30:40	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/デザイン/ (from https://writerity.com/jp/blog/design-outsourcing/wedding-video-production)
+10:30:40	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/動画/ (from https://writerity.com/jp/blog/design-outsourcing/wedding-video-production)
+10:30:40	Warning: 	Moved Permanently for https://writerity.com/?p=53348
+10:30:40	Warning: 	File has moved from https://writerity.com/?p=53348 to https://writerity.com/jp/blog/design-outsourcing/video-production-request-process?p=53348
+10:30:40	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/画像/ (from https://writerity.com/jp/blog/design-outsourcing/video-production-request-process)
+10:30:40	Warning: 	Moved Permanently for https://writerity.com/?p=53355
+10:30:40	Warning: 	File has moved from https://writerity.com/?p=53355 to https://writerity.com/jp/blog/design-outsourcing/youtube-video-production-company?p=53355
+10:30:41	Warning: 	Moved Permanently for https://writerity.com/?p=53376
+10:30:41	Warning: 	File has moved from https://writerity.com/?p=53376 to https://writerity.com/jp/blog/design-outsourcing/video-editing-average-10minutes?p=53376
+10:30:42	Warning: 	Moved Permanently for https://writerity.com/?p=53390
+10:30:42	Warning: 	File has moved from https://writerity.com/?p=53390 to https://writerity.com/jp/blog/design-outsourcing/youtube-video-editing-market-price?p=53390
+10:30:42	Warning: 	Moved Permanently for https://writerity.com/?p=53603
+10:30:42	Warning: 	File has moved from https://writerity.com/?p=53603 to https://writerity.com/jp/blog/system-ordering/html-wordpress?p=53603
+10:30:43	Warning: 	Moved Permanently for https://writerity.com/?p=53246
+10:30:43	Warning: 	File has moved from https://writerity.com/?p=53246 to https://writerity.com/jp/blog/system-ordering/sales-managementsystem-wholesale?p=53246
+10:30:43	Warning: 	Moved Permanently for https://writerity.com/?p=53275
+10:30:43	Warning: 	File has moved from https://writerity.com/?p=53275 to https://writerity.com/jp/blog/system-ordering/order-management-system?p=53275
+10:30:44	Warning: 	Moved Permanently for https://writerity.com/?p=53301
+10:30:44	Warning: 	File has moved from https://writerity.com/?p=53301 to https://writerity.com/jp/blog/system-ordering/custom-ordering-system?p=53301
+10:30:45	Warning: 	Moved Permanently for https://writerity.com/?p=53326
+10:30:45	Warning: 	File has moved from https://writerity.com/?p=53326 to https://writerity.com/jp/blog/system-ordering/order-management-system-manufacturing?p=53326
+10:30:45	Warning: 	Moved Permanently for https://writerity.com/?p=53342
+10:30:45	Warning: 	File has moved from https://writerity.com/?p=53342 to https://writerity.com/jp/blog/system-ordering/order-management-system-cloud?p=53342
+10:30:46	Warning: 	Moved Permanently for https://writerity.com/?p=52788
+10:30:46	Warning: 	File has moved from https://writerity.com/?p=52788 to https://writerity.com/jp/blog/callcenter-outsourcing/telephone-answering-service-providers?p=52788
+10:30:46	Warning: 	Moved Permanently for https://writerity.com/?p=52811
+10:30:46	Warning: 	File has moved from https://writerity.com/?p=52811 to https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap?p=52811
+10:30:47	Warning: 	Moved Permanently for https://writerity.com/?p=52831
+10:30:47	Warning: 	File has moved from https://writerity.com/?p=52831 to https://writerity.com/jp/blog/recruitment_callcenter/callcenter-outsourcing-advantages-disadvantages?p=52831
+10:30:48	Warning: 	Moved Permanently for https://writerity.com/?p=52862
+10:30:48	Warning: 	File has moved from https://writerity.com/?p=52862 to https://writerity.com/jp/blog/recruitment_callcenter/nighttime-callcenter-outsourcing?p=52862
+10:30:48	Warning: 	Moved Permanently for https://writerity.com/?p=52277
+10:30:48	Warning: 	File has moved from https://writerity.com/?p=52277 to https://writerity.com/jp/blog/
+10:30:57	Warning: 	Moved Permanently for https://writerity.com/?p=53708
+10:30:57	Warning: 	File has moved from https://writerity.com/?p=53708 to https://writerity.com/jp/recruitment/ai-system-development-manager/
+10:31:00	Warning: 	Moved Permanently for https://writerity.com/?p=52854
+10:31:00	Warning: 	File has moved from https://writerity.com/?p=52854 to https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad?p=52854
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/webデザイナー/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/デザイナー/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外仕事/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外就職/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外求人/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外移住/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:03	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外転職/ (from https://writerity.com/jp/blog/design_designer/designer/designers-thoughts-working-abroad)
+10:31:07	Warning: 	Moved Permanently for https://writerity.com/?p=52480
+10:31:07	Warning: 	File has moved from https://writerity.com/?p=52480 to https://writerity.com/jp/blog/design_designer/designer/designer_moving_abroad?p=52480
+10:31:10	Warning: 	Moved Permanently for https://writerity.com/?p=52805
+10:31:10	Warning: 	File has moved from https://writerity.com/?p=52805 to https://writerity.com/jp/blog/design_designer/designer/web-designer-overseas-jobs?p=52805
+10:31:11	Warning: 	Moved Permanently for https://writerity.com/?p=52827
+10:31:11	Warning: 	File has moved from https://writerity.com/?p=52827 to https://writerity.com/jp/blog/design_designer/designer/web-designer-emigration?p=52827
+10:31:11	Warning: 	Moved Permanently for https://writerity.com/?p=52876
+10:31:11	Warning: 	File has moved from https://writerity.com/?p=52876 to https://writerity.com/jp/blog/design_designer/designer/overseas-demand-web-designers?p=52876
+10:31:12	Warning: 	Moved Permanently for https://writerity.com/?p=52774
+10:31:12	Warning: 	File has moved from https://writerity.com/?p=52774 to https://writerity.com/jp/blog/recruitment_callcenter/overseas-callcenter-japanese-only?p=52774
+10:31:13	Warning: 	Moved Permanently for https://writerity.com/?p=52816
+10:31:13	Warning: 	File has moved from https://writerity.com/?p=52816 to https://writerity.com/jp/blog/recruitment_callcenter/why-callcenters-overseas?p=52816
+10:31:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/outsourcing/feed/ (from https://writerity.com/tag/outsourcing/)
+10:31:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/request/feed/ (from https://writerity.com/tag/request/)
+10:31:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/video/feed/ (from https://writerity.com/tag/video/)
+10:31:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/blog/image-video-outsourcing/video-production-specialist?p=53415 (from https://writerity.com/?p=53415)
+10:31:25	Warning: 	Moved Permanently for https://writerity.com/category/news/page/1/
+10:31:25	Warning: 	File has moved from https://writerity.com/category/news/page/1/ to https://writerity.com/category/news/
+10:31:27	Warning: 	Moved Permanently for https://writerity.com/?p=47557
+10:31:27	Warning: 	File has moved from https://writerity.com/?p=47557 to https://writerity.com/jp/blog/volunteer/1st/1day/?p=47557
+10:31:31	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/オフリド/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:31:33	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/ゲストハウス/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:31:34	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/世界遺産/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:31:35	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/北マケドニア/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:31:35	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/留学/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:31:37	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/英語/ (from https://writerity.com/jp/blog/volunteer/1st/1day/)
+10:32:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/macedonia/page/2/ (from https://writerity.com/tag/macedonia/)
+10:32:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/macedonia/feed/ (from https://writerity.com/tag/macedonia/)
+10:32:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-content/uploads/2025/09/49ef72b19c9b2addea8db508ca9b00b7-2.jpg (from https://writerity.com/tag/macedonia/)
+10:32:37	Warning: 	Moved Permanently for https://writerity.com/?p=348
+10:32:37	Warning: 	File has moved from https://writerity.com/?p=348 to https://writerity.com/welcome-to-writerity/
+10:32:37	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link writerity.comwp-content/uploads/2018/07/41827753_10156566730173326_5553669726233690112_n-300x180.jpg (from https://writerity.com/welcome-to-writerity/)
+10:32:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link writerity.comwp-content/uploads/2018/07/2BFDEE47-3780-40D3-9E39-BE8063787370-e15305469113081-300x225.jpg (from https://writerity.com/welcome-to-writerity/)
+10:32:37	Warning: 	Moved Permanently for https://writerity.com/category/jp/system-ordering/
+10:32:37	Warning: 	File has moved from https://writerity.com/category/jp/system-ordering/ to https://writerity.com/category/jp/system-ordering
+10:32:37	Warning: 	Moved Permanently for https://writerity.com/category/jp/system-ordering/page/1/
+10:32:37	Warning: 	File has moved from https://writerity.com/category/jp/system-ordering/page/1/ to https://writerity.com/category/jp/system-ordering/
+10:32:40	Error: 	Unable to save file C:/Users/Administrator/Downloads/Writerity/writerity.com/jp/blog/system-ordering/homemade-reservation-system: Permission denied
+10:32:40	Warning: 	Moved Permanently for https://writerity.com/?p=53615
+10:32:40	Warning: 	File has moved from https://writerity.com/?p=53615 to https://writerity.com/jp/blog/system-ordering/in-house-system-selfmade?p=53615
+10:32:40	Warning: 	Moved Permanently for https://writerity.com/?p=53612
+10:32:40	Warning: 	File has moved from https://writerity.com/?p=53612 to https://writerity.com/jp/blog/system-ordering/wordpress-plugin-development?p=53612
+10:32:41	Warning: 	Moved Permanently for https://writerity.com/?p=53609
+10:32:41	Warning: 	File has moved from https://writerity.com/?p=53609 to https://writerity.com/jp/blog/system-ordering/wordpress-theme-development?p=53609
+10:32:42	Warning: 	Moved Permanently for https://writerity.com/category/jp/news/page/1/
+10:32:42	Warning: 	File has moved from https://writerity.com/category/jp/news/page/1/ to https://writerity.com/category/jp/news/
+10:33:01	Warning: 	Moved Permanently for https://writerity.com/jp/blog/system-ordering/wordpress-theme-development/page/2/
+10:33:01	Warning: 	File has moved from https://writerity.com/jp/blog/system-ordering/wordpress-theme-development/page/2/ to https://writerity.com/jp/blog/system-ordering/wordpress-theme-development/
+10:33:01	Warning: 	Moved Permanently for https://writerity.com/author/yuki-takahira/page/1/
+10:33:01	Warning: 	File has moved from https://writerity.com/author/yuki-takahira/page/1/ to https://writerity.com/author/yuki-takahira/
+10:33:01	Warning: 	Moved Permanently for https://writerity.com/blog/system-ordering/system-development-phase/page/3/
+10:33:01	Warning: 	File has moved from https://writerity.com/blog/system-ordering/system-development-phase/page/3/ to https://writerity.com/blog/system-ordering/system-development-phase/
+10:33:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/page/5/ (from https://writerity.com/author/yuki-takahira/page/5/)
+10:33:32	Warning: 	Moved Permanently for https://writerity.com/?p=51098
+10:33:32	Warning: 	File has moved from https://writerity.com/?p=51098 to https://writerity.com/jp/blog/volunteer/2st/14day/?p=51098
+10:33:38	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/ボランティア/ (from https://writerity.com/jp/blog/volunteer/2st/14day/)
+10:33:38	Error: 	"Error when decompressing" (-1) at link https://writerity.com/tag/海外/ (from https://writerity.com/jp/blog/volunteer/2st/14day/)
+10:33:40	Warning: 	Moved Permanently for https://writerity.com/tag/order/page/1/
+10:33:40	Warning: 	File has moved from https://writerity.com/tag/order/page/1/ to https://writerity.com/tag/order/
+10:33:43	Warning: 	Moved Permanently for https://writerity.com/tag/outsourcing/page/1/
+10:33:43	Warning: 	File has moved from https://writerity.com/tag/outsourcing/page/1/ to https://writerity.com/tag/outsourcing/
+10:33:43	Warning: 	Moved Permanently for https://writerity.com/tag/request/page/1/
+10:33:43	Warning: 	File has moved from https://writerity.com/tag/request/page/1/ to https://writerity.com/tag/request/
+10:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/request/feed/ (from https://writerity.com/tag/request/)
+10:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/video/feed/ (from https://writerity.com/tag/video/)
+10:33:43	Warning: 	Moved Permanently for https://writerity.com/blog/image-video-outsourcing/video-production-specialist?p=53415
+10:33:43	Warning: 	File has moved from https://writerity.com/blog/image-video-outsourcing/video-production-specialist?p=53415 to https://writerity.com/blog/image-video-outsourcing/video-production-specialist
+10:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/?p=47568 (from https://writerity.com/jp/blog/volunteer/1st/2day/)
+10:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fjp%2Fblog%2Fvolunteer%2F1st%2F2day%2F (from https://writerity.com/jp/blog/volunteer/1st/2day/)
+10:33:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/1day/?p=47557
+10:33:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/1day/?p=47557 to https://writerity.com/jp/blog/volunteer/1st/1day/
+10:33:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/ohrid/page/5/ (from https://writerity.com/tag/ohrid/)
+10:33:56	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/24day/page/2/
+10:33:56	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/24day/page/2/ to https://writerity.com/jp/blog/volunteer/1st/24day/
+10:34:15	Warning: 	Moved Permanently for https://writerity.com/author/watanabe/page/1/
+10:34:15	Warning: 	File has moved from https://writerity.com/author/watanabe/page/1/ to https://writerity.com/author/watanabe/
+10:34:15	Warning: 	Moved Permanently for https://writerity.com/?p=50927
+10:34:15	Warning: 	File has moved from https://writerity.com/?p=50927 to https://writerity.com/jp/blog/volunteer/2st/10day/?p=50927
+10:34:16	Warning: 	Moved Permanently for https://writerity.com/?p=48210
+10:34:16	Warning: 	File has moved from https://writerity.com/?p=48210 to https://writerity.com/jp/blog/volunteer/1st/33day/?p=48210
+10:34:16	Warning: 	Moved Permanently for https://writerity.com/?p=48029
+10:34:16	Warning: 	File has moved from https://writerity.com/?p=48029 to https://writerity.com/jp/blog/volunteer/1st/32day/?p=48029
+10:34:16	Warning: 	Moved Permanently for https://writerity.com/?p=48000
+10:34:16	Warning: 	File has moved from https://writerity.com/?p=48000 to https://writerity.com/jp/blog/volunteer/1st/31day/?p=48000
+10:34:17	Warning: 	Moved Permanently for https://writerity.com/?p=47991
+10:34:17	Warning: 	File has moved from https://writerity.com/?p=47991 to https://writerity.com/jp/blog/volunteer/1st/30day/?p=47991
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/?p=47960
+10:34:27	Warning: 	File has moved from https://writerity.com/?p=47960 to https://writerity.com/jp/blog/volunteer/1st/29day/?p=47960
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/?p=47940
+10:34:27	Warning: 	File has moved from https://writerity.com/?p=47940 to https://writerity.com/jp/blog/volunteer/1st/28day/?p=47940
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/?p=47908
+10:34:27	Warning: 	File has moved from https://writerity.com/?p=47908 to https://writerity.com/jp/blog/volunteer/1st/27day/?p=47908
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/?p=47872
+10:34:27	Warning: 	File has moved from https://writerity.com/?p=47872 to https://writerity.com/jp/blog/volunteer/1st/26day/?p=47872
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/?p=47849
+10:34:27	Warning: 	File has moved from https://writerity.com/?p=47849 to https://writerity.com/jp/blog/volunteer/1st/25day/?p=47849
+10:34:27	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/14day/page/3/
+10:34:27	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/14day/page/3/ to https://writerity.com/jp/blog/volunteer/1st/14day/
+10:34:40	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/2day/page/4/
+10:34:40	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/2day/page/4/ to https://writerity.com/jp/blog/volunteer/1st/2day/
+10:34:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/macedonia/page/2/ (from https://writerity.com/tag/macedonia/)
+10:34:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/macedonia/feed/ (from https://writerity.com/tag/macedonia/)
+10:34:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/author/chinatsu/page/2/ (from https://writerity.com/author/chinatsu/)
+10:34:41	Warning: 	Moved Permanently for https://writerity.com/?p=51097
+10:34:41	Warning: 	File has moved from https://writerity.com/?p=51097 to https://writerity.com/jp/blog/volunteer/2st/13day/?p=51097
+10:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fjp%2Fblog%2Fvolunteer%2F2st%2F13day%2F (from https://writerity.com/jp/blog/volunteer/2st/13day/)
+10:34:43	Warning: 	Moved Permanently for https://writerity.com/?p=51099
+10:34:43	Warning: 	File has moved from https://writerity.com/?p=51099 to https://writerity.com/jp/blog/volunteer/2st/12day/?p=51099
+10:34:52	Warning: 	Moved Permanently for https://writerity.com/?p=51096
+10:34:52	Warning: 	File has moved from https://writerity.com/?p=51096 to https://writerity.com/jp/blog/volunteer/2st/11day/?p=51096
+10:34:52	Warning: 	Moved Permanently for https://writerity.com/?p=50586
+10:34:52	Warning: 	File has moved from https://writerity.com/?p=50586 to https://writerity.com/jp/blog/volunteer/2st/9day/?p=50586
+10:34:52	Warning: 	Moved Permanently for https://writerity.com/?p=50584
+10:34:52	Warning: 	File has moved from https://writerity.com/?p=50584 to https://writerity.com/jp/blog/volunteer/2st/8day/?p=50584
+10:34:52	Warning: 	Moved Permanently for https://writerity.com/?p=50582
+10:34:52	Warning: 	File has moved from https://writerity.com/?p=50582 to https://writerity.com/jp/blog/volunteer/2st/7day/?p=50582
+10:34:53	Warning: 	Moved Permanently for https://writerity.com/?p=50579
+10:34:53	Warning: 	File has moved from https://writerity.com/?p=50579 to https://writerity.com/jp/blog/volunteer/2st/6day/?p=50579
+10:34:54	Warning: 	Moved Permanently for https://writerity.com/?p=50417
+10:34:54	Warning: 	File has moved from https://writerity.com/?p=50417 to https://writerity.com/jp/blog/volunteer/2st/5day/?p=50417
+10:34:54	Warning: 	Moved Permanently for https://writerity.com/tag/macedonia/page/1/
+10:34:54	Warning: 	File has moved from https://writerity.com/tag/macedonia/page/1/ to https://writerity.com/tag/macedonia/
+10:34:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link writerity.comwp-content/uploads/2018/07/41827753_10156566730173326_5553669726233690112_n-300x180.jpg (from https://writerity.com/welcome-to-writerity/)
+10:34:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link writerity.comwp-content/uploads/2018/07/2BFDEE47-3780-40D3-9E39-BE8063787370-e15305469113081-300x225.jpg (from https://writerity.com/welcome-to-writerity/)
+10:34:54	Warning: 	Moved Permanently for https://writerity.com/?p=53618
+10:34:54	Warning: 	File has moved from https://writerity.com/?p=53618 to https://writerity.com/jp/blog/system-ordering/homemade-reservation-system?p=53618
+10:34:55	Warning: 	Moved Permanently for https://writerity.com/?p=47705
+10:34:55	Warning: 	File has moved from https://writerity.com/?p=47705 to https://writerity.com/jp/blog/volunteer/1st/10day/?p=47705
+10:34:55	Warning: 	Moved Permanently for https://writerity.com/?p=47691
+10:34:55	Warning: 	File has moved from https://writerity.com/?p=47691 to https://writerity.com/jp/blog/volunteer/1st/9day/?p=47691
+10:34:55	Warning: 	Moved Permanently for https://writerity.com/?p=47685
+10:34:55	Warning: 	File has moved from https://writerity.com/?p=47685 to https://writerity.com/jp/blog/volunteer/1st/8day/?p=47685
+10:34:55	Warning: 	Moved Permanently for https://writerity.com/?p=47677
+10:34:55	Warning: 	File has moved from https://writerity.com/?p=47677 to https://writerity.com/jp/blog/volunteer/1st/7day/?p=47677
+10:35:05	Warning: 	Moved Permanently for https://writerity.com/?p=47672
+10:35:05	Warning: 	File has moved from https://writerity.com/?p=47672 to https://writerity.com/jp/blog/volunteer/1st/6day/?p=47672
+10:35:05	Warning: 	Moved Permanently for https://writerity.com/?p=47618
+10:35:05	Warning: 	File has moved from https://writerity.com/?p=47618 to https://writerity.com/jp/blog/volunteer/1st/5day/?p=47618
+10:35:05	Warning: 	Moved Permanently for https://writerity.com/jp/blog/system-ordering/wordpress-theme-development/
+10:35:05	Warning: 	File has moved from https://writerity.com/jp/blog/system-ordering/wordpress-theme-development/ to https://writerity.com/jp/blog/system-ordering/wordpress-theme-development
+10:35:05	Warning: 	Moved Permanently for https://writerity.com/blog/system-ordering/system-development-steps/page/4/
+10:35:05	Warning: 	File has moved from https://writerity.com/blog/system-ordering/system-development-steps/page/4/ to https://writerity.com/blog/system-ordering/system-development-steps/
+10:35:06	Warning: 	Moved Permanently for https://writerity.com/blog/system-ordering/system-development-phase/
+10:35:06	Warning: 	File has moved from https://writerity.com/blog/system-ordering/system-development-phase/ to https://writerity.com/blog/system-ordering/system-development-phase
+10:35:06	Warning: 	Moved Permanently for https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/page/5/
+10:35:06	Warning: 	File has moved from https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/page/5/ to https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/
+10:35:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/category/volunteer/2st/page/1/ (from https://writerity.com/category/volunteer/2st/page/2/)
+10:35:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/4day/feed/ (from https://writerity.com/jp/blog/volunteer/2st/4day/)
+10:35:06	Warning: 	Moved Permanently for https://writerity.com/?p=50415
+10:35:06	Warning: 	File has moved from https://writerity.com/?p=50415 to https://writerity.com/jp/blog/volunteer/2st/4day/?p=50415
+10:35:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fjp%2Fblog%2Fvolunteer%2F2st%2F4day%2F (from https://writerity.com/jp/blog/volunteer/2st/4day/)
+10:35:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fjp%2Fblog%2Fvolunteer%2F2st%2F4day%2F&format=xml (from https://writerity.com/jp/blog/volunteer/2st/4day/)
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=50409
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=50409 to https://writerity.com/jp/blog/volunteer/2st/3day/?p=50409
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=50394
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=50394 to https://writerity.com/jp/blog/volunteer/2st/2day/?p=50394
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/category/volunteer/1st/page/1/
+10:35:17	Warning: 	File has moved from https://writerity.com/category/volunteer/1st/page/1/ to https://writerity.com/category/volunteer/1st/
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=47844
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=47844 to https://writerity.com/jp/blog/volunteer/1st/24day/?p=47844
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=47821
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=47821 to https://writerity.com/jp/blog/volunteer/1st/23day/?p=47821
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=47805
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=47805 to https://writerity.com/jp/blog/volunteer/1st/22day/?p=47805
+10:35:17	Warning: 	Moved Permanently for https://writerity.com/?p=47800
+10:35:17	Warning: 	File has moved from https://writerity.com/?p=47800 to https://writerity.com/jp/blog/volunteer/1st/21day/?p=47800
+10:35:18	Warning: 	Moved Permanently for https://writerity.com/?p=47770
+10:35:18	Warning: 	File has moved from https://writerity.com/?p=47770 to https://writerity.com/jp/blog/volunteer/1st/18day/?p=47770
+10:35:28	Warning: 	Moved Permanently for https://writerity.com/category/volunteer/page/1/
+10:35:28	Warning: 	File has moved from https://writerity.com/category/volunteer/page/1/ to https://writerity.com/category/volunteer/
+10:35:28	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/14day/?p=51098
+10:35:28	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/14day/?p=51098 to https://writerity.com/jp/blog/volunteer/2st/14day/
+10:35:30	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/tag/request/feed/ (from https://writerity.com/tag/request/)
+10:35:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/?p=47568 (from https://writerity.com/jp/blog/volunteer/1st/2day/)
+10:35:30	Warning: 	Moved Permanently for https://writerity.com/tag/english/page/1/
+10:35:30	Warning: 	File has moved from https://writerity.com/tag/english/page/1/ to https://writerity.com/tag/english/
+10:35:30	Warning: 	Moved Permanently for https://writerity.com/tag/europe/page/1/
+10:35:30	Warning: 	File has moved from https://writerity.com/tag/europe/page/1/ to https://writerity.com/tag/europe/
+10:35:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/europe/page/4/ (from https://writerity.com/tag/europe/page/2/)
+10:35:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/ohrid/page/1/ (from https://writerity.com/tag/ohrid/page/2/)
+10:35:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/ohrid/page/5/ (from https://writerity.com/tag/ohrid/)
+10:35:31	Warning: 	Moved Permanently for https://writerity.com/?p=47788
+10:35:31	Warning: 	File has moved from https://writerity.com/?p=47788 to https://writerity.com/jp/blog/volunteer/1st/20day/?p=47788
+10:35:31	Warning: 	Moved Permanently for https://writerity.com/?p=47776
+10:35:31	Warning: 	File has moved from https://writerity.com/?p=47776 to https://writerity.com/jp/blog/volunteer/1st/19day/?p=47776
+10:35:42	Warning: 	Moved Permanently for https://writerity.com/?p=47763
+10:35:42	Warning: 	File has moved from https://writerity.com/?p=47763 to https://writerity.com/jp/blog/volunteer/1st/17day/?p=47763
+10:35:42	Warning: 	Moved Permanently for https://writerity.com/?p=47747
+10:35:42	Warning: 	File has moved from https://writerity.com/?p=47747 to https://writerity.com/jp/blog/volunteer/1st/16day/?p=47747
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/?p=47740
+10:35:43	Warning: 	File has moved from https://writerity.com/?p=47740 to https://writerity.com/jp/blog/volunteer/1st/15day/?p=47740
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/10day/?p=50927
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/10day/?p=50927 to https://writerity.com/jp/blog/volunteer/2st/10day/
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/?p=50253
+10:35:43	Warning: 	File has moved from https://writerity.com/?p=50253 to https://writerity.com/jp/blog/volunteer/2st/1day/?p=50253
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/33day/?p=48210
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/33day/?p=48210 to https://writerity.com/jp/blog/volunteer/1st/33day/
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/32day/?p=48029
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/32day/?p=48029 to https://writerity.com/jp/blog/volunteer/1st/32day/
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/31day/?p=48000
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/31day/?p=48000 to https://writerity.com/jp/blog/volunteer/1st/31day/
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/30day/?p=47991
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/30day/?p=47991 to https://writerity.com/jp/blog/volunteer/1st/30day/
+10:35:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/29day/?p=47960 (from https://writerity.com/?p=47960)
+10:35:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/28day/?p=47940 (from https://writerity.com/?p=47940)
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/27day/?p=47908
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/27day/?p=47908 to https://writerity.com/jp/blog/volunteer/1st/27day/
+10:35:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/26day/?p=47872
+10:35:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/26day/?p=47872 to https://writerity.com/jp/blog/volunteer/1st/26day/
+10:35:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/25day/?p=47849 (from https://writerity.com/?p=47849)
+10:35:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/14day/feed/ (from https://writerity.com/jp/blog/volunteer/1st/14day/)
+10:35:53	Warning: 	Moved Permanently for https://writerity.com/?p=47733
+10:35:53	Warning: 	File has moved from https://writerity.com/?p=47733 to https://writerity.com/jp/blog/volunteer/1st/14day/?p=47733
+10:35:54	Warning: 	Moved Permanently for https://writerity.com/?p=47723
+10:35:54	Warning: 	File has moved from https://writerity.com/?p=47723 to https://writerity.com/jp/blog/volunteer/1st/13day/?p=47723
+10:35:54	Warning: 	Moved Permanently for https://writerity.com/?p=47718
+10:35:54	Warning: 	File has moved from https://writerity.com/?p=47718 to https://writerity.com/jp/blog/volunteer/1st/12day/?p=47718
+10:35:54	Warning: 	Moved Permanently for https://writerity.com/?p=47708
+10:35:54	Warning: 	File has moved from https://writerity.com/?p=47708 to https://writerity.com/jp/blog/volunteer/1st/11day/?p=47708
+10:35:55	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/13day/?p=51097
+10:35:55	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/13day/?p=51097 to https://writerity.com/jp/blog/volunteer/2st/13day/
+10:35:55	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/12day/?p=51099
+10:35:55	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/12day/?p=51099 to https://writerity.com/jp/blog/volunteer/2st/12day/
+10:35:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/11day/?p=51096 (from https://writerity.com/?p=51096)
+10:35:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/9day/?p=50586 (from https://writerity.com/?p=50586)
+10:36:05	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/8day/?p=50584
+10:36:05	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/8day/?p=50584 to https://writerity.com/jp/blog/volunteer/2st/8day/
+10:36:05	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/7day/?p=50582
+10:36:05	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/7day/?p=50582 to https://writerity.com/jp/blog/volunteer/2st/7day/
+10:36:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/6day/?p=50579 (from https://writerity.com/?p=50579)
+10:36:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/5day/?p=50417 (from https://writerity.com/?p=50417)
+10:36:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link writerity.comwp-content/uploads/2018/07/41827753_10156566730173326_5553669726233690112_n-300x180.jpg (from https://writerity.com/welcome-to-writerity/)
+10:36:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link writerity.comwp-content/uploads/2018/07/2BFDEE47-3780-40D3-9E39-BE8063787370-e15305469113081-300x225.jpg (from https://writerity.com/welcome-to-writerity/)
+10:36:06	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/10day/?p=47705
+10:36:06	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/10day/?p=47705 to https://writerity.com/jp/blog/volunteer/1st/10day/
+10:36:06	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/9day/?p=47691
+10:36:06	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/9day/?p=47691 to https://writerity.com/jp/blog/volunteer/1st/9day/
+10:36:06	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/8day/?p=47685
+10:36:06	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/8day/?p=47685 to https://writerity.com/jp/blog/volunteer/1st/8day/
+10:36:06	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/7day/?p=47677
+10:36:06	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/7day/?p=47677 to https://writerity.com/jp/blog/volunteer/1st/7day/
+10:36:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/6day/?p=47672 (from https://writerity.com/?p=47672)
+10:36:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/5day/?p=47618 (from https://writerity.com/?p=47618)
+10:36:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/blog/system-ordering/system-development-steps/ (from https://writerity.com/blog/system-ordering/system-development-steps/page/4/)
+10:36:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/ (from https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/page/5/)
+10:36:07	Warning: 	Moved Permanently for https://writerity.com/category/volunteer/2st/page/1/
+10:36:07	Warning: 	File has moved from https://writerity.com/category/volunteer/2st/page/1/ to https://writerity.com/category/volunteer/2st/
+10:36:07	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/4day/?p=50415
+10:36:07	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/4day/?p=50415 to https://writerity.com/jp/blog/volunteer/2st/4day/
+10:36:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwriterity.com%2Fjp%2Fblog%2Fvolunteer%2F2st%2F4day%2F&format=xml (from https://writerity.com/jp/blog/volunteer/2st/4day/)
+10:36:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/3day/?p=50409 (from https://writerity.com/?p=50409)
+10:36:16	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/2day/?p=50394
+10:36:16	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/2day/?p=50394 to https://writerity.com/jp/blog/volunteer/2st/2day/
+10:36:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/24day/?p=47844 (from https://writerity.com/?p=47844)
+10:36:16	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/23day/?p=47821
+10:36:16	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/23day/?p=47821 to https://writerity.com/jp/blog/volunteer/1st/23day/
+10:36:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/22day/?p=47805 (from https://writerity.com/?p=47805)
+10:36:17	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/21day/?p=47800
+10:36:17	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/21day/?p=47800 to https://writerity.com/jp/blog/volunteer/1st/21day/
+10:36:17	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/18day/?p=47770
+10:36:17	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/18day/?p=47770 to https://writerity.com/jp/blog/volunteer/1st/18day/
+10:36:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/north-macedonia/page/1/ (from https://writerity.com/tag/north-macedonia/page/2/)
+10:36:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/northmacedonia/page/1/ (from https://writerity.com/tag/northmacedonia/page/2/)
+10:36:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/?p=47568 (from https://writerity.com/jp/blog/volunteer/1st/2day/)
+10:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/europe/page/4/ (from https://writerity.com/tag/europe/page/2/)
+10:36:18	Warning: 	Moved Permanently for https://writerity.com/tag/ohrid/page/1/
+10:36:18	Warning: 	File has moved from https://writerity.com/tag/ohrid/page/1/ to https://writerity.com/tag/ohrid/
+10:36:18	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/20day/?p=47788
+10:36:18	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/20day/?p=47788 to https://writerity.com/jp/blog/volunteer/1st/20day/
+10:36:18	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/19day/?p=47776
+10:36:18	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/19day/?p=47776 to https://writerity.com/jp/blog/volunteer/1st/19day/
+10:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/17day/?p=47763 (from https://writerity.com/?p=47763)
+10:36:18	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/16day/?p=47747
+10:36:18	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/16day/?p=47747 to https://writerity.com/jp/blog/volunteer/1st/16day/
+10:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/15day/?p=47740 (from https://writerity.com/?p=47740)
+10:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/1day/?p=50253 (from https://writerity.com/?p=50253)
+10:36:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/29day/?p=47960 (from https://writerity.com/?p=47960)
+10:36:27	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/28day/?p=47940
+10:36:27	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/28day/?p=47940 to https://writerity.com/jp/blog/volunteer/1st/28day/
+10:36:27	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/25day/?p=47849
+10:36:27	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/25day/?p=47849 to https://writerity.com/jp/blog/volunteer/1st/25day/
+10:36:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/14day/?p=47733 (from https://writerity.com/?p=47733)
+10:36:27	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/13day/?p=47723
+10:36:27	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/13day/?p=47723 to https://writerity.com/jp/blog/volunteer/1st/13day/
+10:36:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/12day/?p=47718 (from https://writerity.com/?p=47718)
+10:36:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/11day/?p=47708 (from https://writerity.com/?p=47708)
+10:36:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/3day/page/2/ (from https://writerity.com/author/chinatsu/page/2/)
+10:36:29	Warning: 	Moved Permanently for https://writerity.com/author/chinatsu/page/1/
+10:36:29	Warning: 	File has moved from https://writerity.com/author/chinatsu/page/1/ to https://writerity.com/author/chinatsu/
+10:36:29	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/11day/?p=51096
+10:36:29	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/11day/?p=51096 to https://writerity.com/jp/blog/volunteer/2st/11day/
+10:36:29	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/9day/?p=50586
+10:36:29	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/9day/?p=50586 to https://writerity.com/jp/blog/volunteer/2st/9day/
+10:36:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/6day/?p=50579 (from https://writerity.com/?p=50579)
+10:36:29	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/5day/?p=50417
+10:36:29	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/5day/?p=50417 to https://writerity.com/jp/blog/volunteer/2st/5day/
+10:36:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/6day/?p=47672 (from https://writerity.com/?p=47672)
+10:36:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/5day/?p=47618 (from https://writerity.com/?p=47618)
+10:36:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/blog/system-ordering/system-development-steps/ (from https://writerity.com/blog/system-ordering/system-development-steps/page/4/)
+10:36:38	Warning: 	Moved Permanently for https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/
+10:36:38	Warning: 	File has moved from https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap/ to https://writerity.com/jp/blog/callcenter-outsourcing/callcenter-agency-cheap
+10:36:38	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/3day/?p=50409
+10:36:38	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/3day/?p=50409 to https://writerity.com/jp/blog/volunteer/2st/3day/
+10:36:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/24day/?p=47844 (from https://writerity.com/?p=47844)
+10:36:38	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/22day/?p=47805
+10:36:38	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/22day/?p=47805 to https://writerity.com/jp/blog/volunteer/1st/22day/
+10:36:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/north-macedonia/page/1/ (from https://writerity.com/tag/north-macedonia/page/2/)
+10:36:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/tag/northmacedonia/page/1/ (from https://writerity.com/tag/northmacedonia/page/2/)
+10:36:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/17day/?p=47763 (from https://writerity.com/?p=47763)
+10:36:41	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/15day/?p=47740
+10:36:41	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/15day/?p=47740 to https://writerity.com/jp/blog/volunteer/1st/15day/
+10:36:41	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/1day/?p=50253
+10:36:41	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/1day/?p=50253 to https://writerity.com/jp/blog/volunteer/2st/1day/
+10:36:41	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/29day/?p=47960
+10:36:41	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/29day/?p=47960 to https://writerity.com/jp/blog/volunteer/1st/29day/
+10:36:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/14day/?p=47733 (from https://writerity.com/?p=47733)
+10:36:41	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/12day/?p=47718
+10:36:41	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/12day/?p=47718 to https://writerity.com/jp/blog/volunteer/1st/12day/
+10:36:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/1st/11day/?p=47708 (from https://writerity.com/?p=47708)
+10:36:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://writerity.com/jp/blog/volunteer/2st/3day/page/2/ (from https://writerity.com/author/chinatsu/page/2/)
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/2st/6day/?p=50579
+10:36:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/2st/6day/?p=50579 to https://writerity.com/jp/blog/volunteer/2st/6day/
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/6day/?p=47672
+10:36:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/6day/?p=47672 to https://writerity.com/jp/blog/volunteer/1st/6day/
+10:36:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/jp/blog/volunteer/1st/5day/?p=47618 (from https://writerity.com/?p=47618)
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/blog/system-ordering/system-development-steps/
+10:36:43	Warning: 	File has moved from https://writerity.com/blog/system-ordering/system-development-steps/ to https://writerity.com/blog/system-ordering/system-development-steps
+10:36:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/jp/blog/volunteer/1st/24day/?p=47844 (from https://writerity.com/?p=47844)
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/tag/north-macedonia/page/1/
+10:36:43	Warning: 	File has moved from https://writerity.com/tag/north-macedonia/page/1/ to https://writerity.com/tag/north-macedonia/
+10:36:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/tag/northmacedonia/page/1/ (from https://writerity.com/tag/northmacedonia/page/2/)
+10:36:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/jp/blog/volunteer/1st/17day/?p=47763 (from https://writerity.com/?p=47763)
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/14day/?p=47733
+10:36:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/14day/?p=47733 to https://writerity.com/jp/blog/volunteer/1st/14day/
+10:36:43	Warning: 	Moved Permanently for https://writerity.com/jp/blog/volunteer/1st/11day/?p=47708
+10:36:43	Warning: 	File has moved from https://writerity.com/jp/blog/volunteer/1st/11day/?p=47708 to https://writerity.com/jp/blog/volunteer/1st/11day/
+10:36:43	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://writerity.com/jp/blog/volunteer/2st/3day/page/2/ (from https://writerity.com/author/chinatsu/page/2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 5 seconds : 1175 links scanned, 876 files written (47916688 bytes overall) [35856812 bytes received at 53920 bytes/sec], 19087404 bytes transferred using HTTP compression in 614 files, ratio 29%, 7.2 requests per connection
+(46 errors, 435 warnings, 0 messages)
