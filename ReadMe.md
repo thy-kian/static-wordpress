@@ -1,1 +1,1 @@
-Writerity Static Pages
+Gamenic Static Pages
