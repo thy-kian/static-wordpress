@@ -1,1 +1,1 @@
-Gamenic Static Pages
+Katsumok Static Pages
