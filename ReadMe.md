@@ -1,1 +1,1 @@
-Katsumok Static Pages
+Bantenya Static Pages
