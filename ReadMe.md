@@ -1,0 +1,1 @@
+Writerity Static Pages
