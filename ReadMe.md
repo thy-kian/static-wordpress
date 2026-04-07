@@ -1,1 +1,1 @@
-Bantenya Static Pages
+Riptus Static Pages
