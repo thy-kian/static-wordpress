@@ -1,1 +1,1 @@
-Riptus Static Pages
+Nalamiz-Gamenic Static Pages
