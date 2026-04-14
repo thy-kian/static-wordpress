@@ -1,1 +1,1 @@
-Riptus Static Pages
+Riptus Static Pages & Deployed
