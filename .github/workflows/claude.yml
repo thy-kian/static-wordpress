@@ -20,19 +20,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Parse branch from issue title
-        id: parse
-        run: |
-          TITLE="${{ github.event.issue.title }}"
-          BRANCH=$(echo "$TITLE" | grep -oP '(?<=\[)[^\]]+')
-          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
-          echo "Detected branch: $BRANCH"
-
-      - name: Checkout target branch
-        run: |
-          git fetch origin
-          git checkout ${{ steps.parse.outputs.branch }}
+          ref: main
 
       - name: Run Claude Code
         uses: anthropics/claude-code-action@beta
@@ -40,9 +28,8 @@ jobs:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           direct_prompt: |
-            Branch: ${{ steps.parse.outputs.branch }}
             Issue title: ${{ github.event.issue.title }}
             Issue body: ${{ github.event.issue.body }}
             Read the issue carefully, find the relevant file, and make the requested changes.
-            Then create a new branch named fix/issue-${{ github.event.issue.number }}, commit your changes to that branch, push it, and open a Pull Request into ${{ steps.parse.outputs.branch }} with a clear title and description referencing this issue.
-            Do NOT commit directly to ${{ steps.parse.outputs.branch }}.
+            Then create a new branch named fix/issue-${{ github.event.issue.number }}, commit your changes to that branch, push it, and open a Pull Request into main with a clear title and description referencing this issue.
+            Do NOT commit directly to main.
