@@ -43,5 +43,6 @@ jobs:
             Branch: ${{ steps.parse.outputs.branch }}
             Issue title: ${{ github.event.issue.title }}
             Issue body: ${{ github.event.issue.body }}
-            Read the issue carefully, find the relevant file,
-            make the requested changes, then commit your changes.
+            Read the issue carefully, find the relevant file, and make the requested changes.
+            Then create a new branch named fix/issue-${{ github.event.issue.number }}, commit your changes to that branch, push it, and open a Pull Request into ${{ steps.parse.outputs.branch }} with a clear title and description referencing this issue.
+            Do NOT commit directly to ${{ steps.parse.outputs.branch }}.
