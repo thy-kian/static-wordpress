@@ -547,7 +547,7 @@
 .riptus-web-text101 {
   top: 109px;
   left: -40px;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 255);
   right: 0px;
   width: 882px;
   height: 223px;
@@ -1946,7 +1946,7 @@ p.sec-line-text {
   .riptus-web-text101 {
     top: 120px !important;
     left: -10px;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 255);
     right: 0px;
     width: 882px;
     height: 223px;
