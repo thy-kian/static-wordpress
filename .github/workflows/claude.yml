@@ -1,0 +1,47 @@
+name: Claude Code - issue to PR
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  claude:
+    if: |
+      github.event.action == 'opened' ||
+      github.event.label.name == 'claude'
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Parse branch from issue title
+        id: parse
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          BRANCH=$(echo "$TITLE" | grep -oP '(?<=\[)[^\]]+')
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+          echo "Detected branch: $BRANCH"
+
+      - name: Checkout target branch
+        run: |
+          git fetch origin
+          git checkout ${{ steps.parse.outputs.branch }}
+
+      - name: Run Claude Code
+        uses: anthropics/claude-code-action@beta
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          direct_prompt: |
+            Branch: ${{ steps.parse.outputs.branch }}
+            Issue title: ${{ github.event.issue.title }}
+            Issue body: ${{ github.event.issue.body }}
+            Read the issue carefully, find the relevant file,
+            make the requested changes, then commit your changes.
