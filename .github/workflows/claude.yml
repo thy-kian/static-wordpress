@@ -30,6 +30,17 @@ jobs:
           direct_prompt: |
             Issue title: ${{ github.event.issue.title }}
             Issue body: ${{ github.event.issue.body }}
-            Read the issue carefully, find the relevant file, and make the requested changes.
-            Then create a new branch named fix/issue-${{ github.event.issue.number }}, commit your changes to that branch, push it, and open a Pull Request into main with a clear title and description referencing this issue.
-            Do NOT commit directly to main.
+
+            REPO STRUCTURE:
+            - All site files are inside the `riptus.net/` folder.
+            - The main HTML entry point is `riptus.net/index.html`.
+            - CSS files are in `riptus.net/wp-content/themes/riptus/css/` and `riptus.net/wp-content/themes/riptus/assets/css/`.
+            - Both CSS files are loaded by the page — changes must be applied to ALL relevant rules across BOTH files.
+
+            INSTRUCTIONS:
+            1. Read `riptus.net/index.html` to locate the exact HTML element mentioned in the issue (check its tag, class, and any inline `style` attribute).
+            2. If the element has an inline `style` attribute with the property to change, update that inline style directly in `index.html`.
+            3. Search ALL CSS files under `riptus.net/` for every rule that targets that element's class and update the relevant property. Use `!important` to guarantee the change is not overridden by other rules.
+            4. Verify no other rule elsewhere in the CSS files resets the property back — if found, update those too.
+            5. Create a new branch named `fix/issue-${{ github.event.issue.number }}`, commit all changed files to that branch, push it, and open a Pull Request into `main` with a clear title and description referencing issue #${{ github.event.issue.number }}.
+            6. Do NOT commit directly to `main`.
